@@ -1,6 +1,6 @@
 # 💰 Financial Planner - Your AI-Powered Personal Finance Assistant 🤖
 
-Welcome to the Financial Planner, a key component of the [Free Life Planner (FLP)](https://github.com/aindilis/free-life-planner) system. This intelligent AI-based tool is designed to help you take control of your personal finances, plan for the future, and achieve your financial goals.
+Welcome to the Financial Planner, a key component of the [Free Life Planner (FLP)] system. This intelligent AI-based tool is designed to help you take control of your personal finances, plan for the future, and achieve your financial goals.
 
 ## 🌟 Features
 
@@ -77,9 +77,9 @@ We're constantly working to improve the Financial Planner. Here are some excitin
 
 ## 🚀 Getting Started
 
-For more information, please see the Financial Planner section of the FLP Reference Manual: [FLP documentation](https://github.com/aindilis/flp/blob/main/ReferenceManual.md#financial-planner), and/or the academic paper which introduces Financial Planner: [FLP paper](https://www.academia.edu/116194435/The_Free_Life_Planner).
+For more information, please see the Financial Planner section of the FLP Reference Manual: [FLP documentation], and/or the academic paper which introduces Financial Planner: [FLP paper](https://www.academia.edu/116194435/The_Free_Life_Planner).
 
-The financial planner is still being developed, but to start using a very minimal alpha version of the FLP system, follow the instructions present in the [Panoply repository](https://github.com/aindilis/frdcsa-panoply-git-20200329/blob/master/README.md).
+The financial planner is still being developed, but to start using a very minimal alpha version of the FLP system, follow the instructions present in the [Panoply repository].
 
 ## 👥 Contributing
 
@@ -91,6 +91,6 @@ The Financial Planner is part of the Free Life Planner system and is released un
 
 ## 🆘 Support
 
-If you encounter any issues or have questions about the Financial Planner, please [open an issue](https://github.com/aindilis/free-life-planner/issues) on our GitHub repository.
+If you encounter any issues or have questions about the Financial Planner, please [open an issue]. on our GitHub repository.
 
 Get ready to take control of your financial future soon with FLP's Financial Planner! 🎉
